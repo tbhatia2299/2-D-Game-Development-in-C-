@@ -1,0 +1,71 @@
+<?xml version = "1.0"?>
+<GameData>
+<!-- screenTitle is also used to identify you and your animation. 
+     So make sure to include your name as part of the screenTitle -->
+<title>Tanmay Bhatia's Tracker Framework</title>
+<maxStringSize>50</maxStringSize>
+
+<frameCapOn>true</frameCapOn>
+<period>17</period>
+
+<maxFrames>1200</maxFrames>
+<username>tbhatia</username>
+
+<view>
+  <width>899</width>
+  <height>525</height>
+  <loc y="30" x="30"/>
+</view>
+
+<world>
+  <width>2000</width>
+  <height>525</height>
+</world>
+
+<purplesky>
+  <file>assets/fortnite.png</file>
+  <factor>5</factor>
+  <transparency>false</transparency>
+</purplesky>
+
+<road>
+  <file>assets/snow.png</file>
+  <factor>4</factor>
+  <transparency>true</transparency>
+</road>
+
+<wolf>
+  <file>assets/wolf.png</file>
+  <startLoc y="225" x="211"/>
+  <wolf_number>5</wolf_number>
+  <speedX>300</speedX>
+  <speedY>300</speedY>
+  <transparency>false</transparency>
+</wolf>
+
+ 
+ <font name="font">
+   <file>fonts/arial.ttf</file>
+   <size>24</size>
+   <red>255</red>
+   <green>255</green>
+   <blue>0</blue>
+   <alpha>0</alpha>
+ </font>
+
+  
+
+<wolfyiron>
+  <file>assets/wolfyiron.png</file>
+  <startLoc y="90" x="45"/>
+  <frames>8</frames>
+  <imageWidth>125</imageWidth>
+  <imageHeight>35</imageHeight>
+  <frameInterval>175</frameInterval>
+  <speedX>150</speedX>
+  <speedY>0</speedY>
+  <transparency>false</transparency>
+</wolfyiron>
+
+
+</GameData>
