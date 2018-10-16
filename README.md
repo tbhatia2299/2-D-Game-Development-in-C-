@@ -1,1 +1,1 @@
-# 2-D-Game-Development-in-C-
+# 2-D-Game-Development-in-C++
