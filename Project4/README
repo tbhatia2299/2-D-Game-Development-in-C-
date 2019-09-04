@@ -1,0 +1,31 @@
+Name: Tanmay Bhatia
+
+Course: CPSC 6160
+
+Clemson Email Address: tbhatia@g.clemson.edu
+
+Project no: #4
+
+Project due date: March 29th, 2019
+
+Project description: Incorporate a player object
+                     Collision Detection and AI using Observer Pattern
+                     Include HUD(Heads Up Display) 
+
+The easiest part of this project: Collision Detection and AI using Observer Pattern. I would not say it was easy but 
+                                  easier as compared to other parts of the project since Dr. Malloy explained it 
+                                  well in the class.
+                                 
+
+Problems that I had in completing this project: Including a player object and HUD was something that was difficult. Even
+                                                Collision Detection and AI and the concept of smart sprites was difficult.
+                                                I took a lot of time to complete the project and it was not easy too but I 
+                                                learnt a lot. 
+
+A few sentences describing my proposed project: I want to make the bats shoot at the wolf and make the wolf dodge the bullets
+                                                shot by the wolf. Every bullet that hits the wolf makes the health of the wolf
+                                                to go down. I wanted to add levels to this project wherein there is a final faceoff
+                                                between a wolf and a hunter but I don't know if that is achievable because of the 
+                                                time constraint.Wolf spritesheet
+https://opengameart.org/content/lpc-wolf-animation and Bat spritesheet - http://updates.themanaworld.net/client-data/graphics/sprites/monsters/bat.png
+
